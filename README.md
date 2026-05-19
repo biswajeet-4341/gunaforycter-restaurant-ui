@@ -33,4 +33,4 @@ During this build, I strengthened my understanding of:
 
 ![Bistro UI Preview](./image.png)
 
-A responsive, highly visual UI card showcasing a premium bistro's UI
+A highly visual UI card showcasing a premium bistro's UI
